@@ -1,0 +1,7 @@
+{
+    "stunUser": "test",
+    "stunPass": "1234",
+    "privkey": "/etc/letsencrypt/live/bajtalon.com/privkey.pem",
+    "cert": "/etc/letsencrypt/live/bajtalon.com/cert.pem",
+    "chain": "/etc/letsencrypt/live/bajtalon.com/chain.pem"
+}
