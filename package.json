@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "compile": "tsc && node dist/app.js",
-    "dev": "nodemon -e ts  --exec \"npm run compile\""
+    "dev": "nodemon -e ts  --exec \"npm run compile\"",
+    "start": "node dist/app.js"
   },
   "author": "Marek Bajtalon (bajt24)",
   "license": "MIT",

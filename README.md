@@ -6,7 +6,7 @@ If you're looking for the client repository, checkout [this](https://github.com/
 
 ## Setting up
 Server is written in Node.js which you can get [here](https://nodejs.org/en/).
-After cloning the repository, use `npm install` to download all the required modules.
+After cloning the repository, use to download all the required modules.
 
 ```
 npm install
@@ -47,7 +47,3 @@ To build a documentation use
 ```
 npx typedoc src
 ```
-
-## License
-
-TODO:
